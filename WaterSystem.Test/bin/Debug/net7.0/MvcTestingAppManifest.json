@@ -1,0 +1,7 @@
+{
+  "WaterSystem.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api",
+  "WaterSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application",
+  "WaterSystem.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain",
+  "WaterSystem.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure",
+  "WaterSystem.Utilityes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes"
+}

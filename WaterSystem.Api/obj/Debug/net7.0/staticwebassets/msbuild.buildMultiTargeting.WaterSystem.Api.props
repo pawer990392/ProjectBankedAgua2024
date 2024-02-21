@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WaterSystem.Api.props" />
+</Project>

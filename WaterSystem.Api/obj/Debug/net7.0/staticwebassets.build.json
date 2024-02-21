@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6Dpl0PwEsegjGF6WGCsUKjpNVfJU6ASGEX6gcCuREgw=",
+  "Source": "WaterSystem.Api",
+  "BasePath": "_content/WaterSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
