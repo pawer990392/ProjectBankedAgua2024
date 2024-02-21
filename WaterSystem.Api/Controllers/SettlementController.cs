@@ -6,7 +6,7 @@ using WaterSystem.Infrastructure.Commons.Bases.Request;
 
 namespace WaterSystem.Api.Controllers
 {
-    //Puse mi noMBRE MIGUEL ANGEL AJAJAJ
+    
     //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
