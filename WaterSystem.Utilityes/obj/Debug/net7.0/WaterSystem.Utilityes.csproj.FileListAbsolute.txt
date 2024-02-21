@@ -21,3 +21,15 @@ C:\repos\BackEndSistemasAgua2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSys
 C:\repos\BackEndSistemasAgua2024\WaterSystem.Utilityes\obj\Debug\net7.0\refint\WaterSystem.Utilityes.dll
 C:\repos\BackEndSistemasAgua2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.pdb
 C:\repos\BackEndSistemasAgua2024\WaterSystem.Utilityes\obj\Debug\net7.0\ref\WaterSystem.Utilityes.dll
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\bin\Debug\net7.0\WaterSystem.Utilityes.deps.json
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\bin\Debug\net7.0\WaterSystem.Utilityes.dll
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\bin\Debug\net7.0\WaterSystem.Utilityes.pdb
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.AssemblyInfoInputs.cache
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.AssemblyInfo.cs
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.csproj.CoreCompileInputs.cache
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.sourcelink.json
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.dll
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\refint\WaterSystem.Utilityes.dll
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\WaterSystem.Utilityes.pdb
+C:\repos\ProjectoWaterBanked2024\WaterSystem.Utilityes\obj\Debug\net7.0\ref\WaterSystem.Utilityes.dll

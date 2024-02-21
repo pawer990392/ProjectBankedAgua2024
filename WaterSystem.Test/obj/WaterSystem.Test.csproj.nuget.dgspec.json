@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Test\\WaterSystem.Test.csproj": {}
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Test\\WaterSystem.Test.csproj": {}
   },
   "projects": {
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
         "projectName": "WaterSystem.Api",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\WaterSystem.Application.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\WaterSystem.Application.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\WaterSystem.Application.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\WaterSystem.Application.csproj"
               },
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
               },
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\WaterSystem.Application.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\WaterSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\WaterSystem.Application.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\WaterSystem.Application.csproj",
         "projectName": "WaterSystem.Application",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\WaterSystem.Application.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\WaterSystem.Application.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Application\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -130,14 +130,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj"
               },
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
               },
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
         "projectName": "WaterSystem.Domain",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -273,14 +273,14 @@
         }
       }
     },
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Test\\WaterSystem.Test.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Test\\WaterSystem.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Test\\WaterSystem.Test.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Test\\WaterSystem.Test.csproj",
         "projectName": "WaterSystem.Test",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Test\\WaterSystem.Test.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Test\\WaterSystem.Test.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Test\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -302,8 +302,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj"
               }
             }
           }
@@ -359,14 +359,14 @@
         }
       }
     },
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
         "projectName": "WaterSystem.Utilityes",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -410,20 +410,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -433,14 +419,14 @@
         }
       }
     },
-    "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
+    "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj",
         "projectName": "WaterSystem.Infrastructure",
-        "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj",
+        "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\WaterSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystemInfrastructure\\obj\\",
+        "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystemInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -462,11 +448,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj"
               },
-              "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
-                "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
+              "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj": {
+                "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4sCtSjCI0D1QjWH16uHENc6kl8RTspsz6nW+kr/s2G/oo2Z2sRK6yLi+BiuASBQzqLZL6ojJ6osYO9N181iyww==",
+  "dgSpecHash": "vIt1m6n7N3slUlV5ERYBw7Uf3M+24DjG/hYslRLARCnA/pSAonH2X4q3boDT8l2u9E5ySLt7l0gBoqr096Zufw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
+  "projectFilePath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jiren\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jiren\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

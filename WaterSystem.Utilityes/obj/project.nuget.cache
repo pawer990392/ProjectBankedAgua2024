@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmhfSzGqZwDYir9D1fq66ORihLDlQmi3gPSv1jHp5JQ9+P5AY2q6ucGbV1s22tMVKMI5lU0Do/kgYKFbclR2mw==",
+  "dgSpecHash": "IvSOEjl0SVCHaPbM1n47rwGMG0c34IcnZlylLhi8uVtrcmuOZaZCOLgOke7Jq+Bv/DO96N3vUZR/moHw+kxYIQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jiren\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\jiren\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\jiren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

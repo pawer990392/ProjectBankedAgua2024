@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwPUYIGsznp8ZcVevnAk717i+uq6QLjmSmuAMgABXESCSzRHR3HmU2S4/nPCQ/thkFHftutZRSVafDUmvcAE6Q==",
+  "dgSpecHash": "tvqpRwv5LO607oYO996B2Fe05Zd4QodS6mHenUVhAE4mn+KS/OZMHz09IZpsTFSlIXHnfNUhkoUag80+/C+F4g==",
   "success": true,
-  "projectFilePath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
+  "projectFilePath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Api\\WaterSystem.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jiren\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jiren\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

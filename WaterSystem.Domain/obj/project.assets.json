@@ -2890,11 +2890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
+      "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
       "projectName": "WaterSystem.Domain",
-      "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
+      "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\WaterSystem.Domain.csproj",
       "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Domain\\obj\\",
+      "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

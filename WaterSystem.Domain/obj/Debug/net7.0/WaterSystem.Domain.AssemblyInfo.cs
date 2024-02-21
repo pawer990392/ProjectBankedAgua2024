@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterSystem.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5ff65c9a7d513b374939ac352ccf6e99231fc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf9759cb7ae8102c8e63f76c138c7162912e424")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterSystem.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterSystem.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

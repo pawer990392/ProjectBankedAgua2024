@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
+      "projectUniqueName": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
       "projectName": "WaterSystem.Utilityes",
-      "projectPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
+      "projectPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\WaterSystem.Utilityes.csproj",
       "packagesPath": "C:\\Users\\jiren\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\BackEndSistemasAgua2024\\WaterSystem.Utilityes\\obj\\",
+      "outputPath": "C:\\repos\\ProjectoWaterBanked2024\\WaterSystem.Utilityes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,20 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.15, 7.0.15]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.15, 7.0.15]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.15, 7.0.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
